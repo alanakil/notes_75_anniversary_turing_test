@@ -1,0 +1,10 @@
+- Turing’s question endures, the test doesn’t: The original imitation game is seen as outdated for judging intelligence.
+- Humans are easily fooled: Our brains construct reality, making us prone to “ELIZA-effect” over-attribution of intelligence to chatbots and LLMs.
+- Scaling isn’t enough: Simply making bigger models won’t deliver reasoning, safety, or general intelligence; world-models and specialized approaches are needed.
+- Hype vs. real value: AI adoption often delivers little measurable impact; much is driven by FOMO and rhetoric about AGI.
+- Safety and agency matter: As with historical tech shifts, society tolerates hidden risks; future AI development should prioritize safety over speed.
+- Human capabilities are at risk: Over-reliance on AI can lead to deskilling and loss of confidence (e.g., in writing or communicating).
+- Ethics and power dynamics: Current AI progress relies on appropriated public data and is driven by a few actors, leaving most people as “passengers on the bus.”
+- Varieties of intelligence: AI may excel in narrow, specialized domains without human-like generality; not all useful intelligence is human-like.
+- Consciousness is not required for AI: Some panelists saw no need (and some saw danger) in pursuing conscious AI.
+- Focus for the future: Build safer, more accountable systems, support human learning and agency, and judge AI by practical, meaningful contributions rather than by passing the Turing Test.
