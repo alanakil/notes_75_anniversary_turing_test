@@ -9,8 +9,8 @@ Alan Kay, Computer Science Pioneer and Adjunct Professor at UCLA.
   - 1966 Eliza, the first chatbot. Slow thinking knows it's a program, fast thinks it's a friend.
 - Book: Human Universals by Donald Brown.
 - Kay: "The main theme of the 21st century should be safety".
-- Beaurocracy is the most dangerous enemy.
-- More is better until it isn't.
+- Bureaucracy is the most dangerous enemy.
+- More is better... until it isn't.
 
 # Panel discussion: What did Turing mean? And how was it interpreted?
 Sarah Dillon, University of Cambridge.
