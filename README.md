@@ -5,5 +5,7 @@ The event was co-organised by the Royal Society and the University of Southampto
 There were amazing speakers including Alan Kay, Gary Marcus, and Nigle Shadbolt, among others, and very interesting panel discussions about the future of the Turing Test and AGI.
 
 Hearing from these remarkable minds was an incredible experience, and I've taken some notes from the keynotes and the panel discussion that I make available here.
+
 Event link: https://royalsociety.org/science-events-and-lectures/2025/10/celebrating-75-anniversary-turing-test/
+
 Notes: https://github.com/alanakil/notes_75_anniversary_turing_test/blob/main/notes.md
