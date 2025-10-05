@@ -9,3 +9,5 @@ Hearing from these remarkable minds was an incredible experience, and I've taken
 Event link: https://royalsociety.org/science-events-and-lectures/2025/10/celebrating-75-anniversary-turing-test/
 
 Notes: https://github.com/alanakil/notes_75_anniversary_turing_test/blob/main/notes.md
+
+Key takeaways: https://github.com/alanakil/notes_75_anniversary_turing_test/blob/main/takeaways.md
