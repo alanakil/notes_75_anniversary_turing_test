@@ -1,1 +1,9 @@
-# notes_75_anniversary_turing_test
+# Notes: 75th Anniversary of the Turing Test, a celebration
+On 2 October 2025, I attended the celebration of the 75th anniversary of the Turing test, pubslihed in Alan Turing's 1950 paper.
+
+The event was co-organised by the Royal Society and the University of Southampton and it brought together leading voices to reflect on the influence and future Turing's test.
+There were amazing speakers including Alan Kay, Gary Marcus, and Nigle Shadbolt, among others, and very interesting panel discussions about the future of the Turing Test and AGI.
+
+Hearing from remarkable minds in the world of AI was an incredible experience, and I've taken some notes from the keynotes and the panel discussion that I make available here.
+Event link: https://royalsociety.org/science-events-and-lectures/2025/10/celebrating-75-anniversary-turing-test/
+Notes: https://github.com/alanakil/notes_75_anniversary_turing_test/blob/main/notes.md
