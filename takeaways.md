@@ -1,3 +1,5 @@
+# Key takeaways
+
 - Turing’s question endures, the test doesn’t: The original imitation game is seen as outdated for judging intelligence.
 - Humans are easily fooled: Our brains construct reality, making us prone to “ELIZA-effect” over-attribution of intelligence to chatbots and LLMs.
 - Scaling isn’t enough: Simply making bigger models won’t deliver reasoning, safety, or general intelligence; world-models and specialized approaches are needed.
